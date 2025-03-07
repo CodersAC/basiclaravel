@@ -7,6 +7,6 @@ abstract class Controller
     //this is comment
     public function index()
     {
-        return view("");
+        return view(""); //add comment
     }
 }
